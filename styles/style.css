@@ -340,33 +340,7 @@ margin-top: 150px;
 .destination-img-3 {display: flex;
                         column-gap: 10px;
                         margin-top: 10px;}  
-/*.destination-img-1 {display: grid;
-    grid-template-columns: repeat(2,1fr);
-     
-    border-radius: 16px;
-    column-gap: 10px; }
-.img-1 {width: 573px;
-    height: 300px;
-    flex-shrink: 0;}
-.destination-img-2 {
-    margin-top: 10px;
-    display: grid;
-    grid-template-columns: repeat(3,1fr);
-    
-    border-radius: 16px;
-    column-gap: 10px;
-}
-.destination-img-3{
-    margin-top: 10px;
-    display: grid;
-    grid-template-columns: repeat(2,1fr);
-    border-radius: 16px;
-    column-gap: 10px;
-}
-.img-2 {width: 374px;
-    height: 286px;
-    flex-shrink: 0;}
-*/
+
 
 
 .choose h3 {margin-bottom: 5px;}
